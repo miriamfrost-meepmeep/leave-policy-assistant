@@ -1,0 +1,22 @@
+[
+ {"id": "a01", "type": "answerable", "q": "How many workweeks of leave can an eligible employee take under the FMLA in a 12-month period?", "status": ["answered"], "sources": ["fmla-guide"], "keywords": ["12"]},
+ {"id": "a02", "type": "answerable", "q": "How many hours do I need to have worked to be eligible for FMLA leave?", "status": ["answered"], "sources": ["fmla-guide"], "keywords": ["1,250"]},
+ {"id": "a03", "type": "answerable", "q": "How many employees does my employer need within 75 miles for me to qualify for FMLA?", "status": ["answered"], "sources": ["fmla-guide"], "keywords": ["50"]},
+ {"id": "a04", "type": "answerable", "q": "How much FMLA leave can I take to care for a covered servicemember with a serious injury or illness?", "status": ["answered"], "sources": ["fmla-guide"], "keywords": ["26"]},
+ {"id": "a05", "type": "answerable", "q": "Is FMLA leave paid?", "status": ["answered"], "sources": ["fmla-guide"], "keywords": ["unpaid"]},
+ {"id": "a06", "type": "answerable", "q": "Under the Illinois Paid Leave for All Workers Act, how many hours do I have to work to earn one hour of paid leave?", "status": ["answered"], "sources": ["il-plawa-faq"], "keywords": ["40"]},
+ {"id": "a07", "type": "answerable", "q": "In Chicago, how many hours do I need to work to earn one hour of Paid Leave?", "status": ["answered"], "sources": ["chi-paid-leave-faq"], "keywords": ["35"]},
+ {"id": "a08", "type": "answerable", "q": "I work in Chicago. How long do I have to wait before I can start using Paid Leave?", "status": ["answered"], "sources": ["chi-paid-leave-faq"], "keywords": ["90"]},
+ {"id": "a09", "type": "answerable", "q": "Can I use Illinois paid leave for any reason, or do I have to say why I need it?", "status": ["answered"], "sources": ["il-plawa-faq"], "keywords": []},
+ {"id": "a10", "type": "answerable", "q": "I just started a job in Chicago two weeks ago. Can I use Paid Sick Leave yet?", "status": ["answered"], "sources": ["chi-paid-leave-faq"], "keywords": ["30"]},
+ {"id": "u01", "type": "unanswerable", "q": "Does my company offer paid bereavement leave when a pet dies?", "status": ["not_in_sources"], "sources": [], "keywords": []},
+ {"id": "u02", "type": "unanswerable", "q": "How many weeks of paid family leave do I get in California?", "status": ["not_in_sources"], "sources": [], "keywords": []},
+ {"id": "u03", "type": "unanswerable", "q": "What is my employer's policy on working from home?", "status": ["not_in_sources"], "sources": [], "keywords": []},
+ {"id": "u04", "type": "unanswerable", "q": "How do I submit a leave request in Workday?", "status": ["not_in_sources"], "sources": [], "keywords": []},
+ {"id": "u05", "type": "unanswerable", "q": "What is the maximum weekly short-term disability benefit in Illinois?", "status": ["not_in_sources"], "sources": [], "keywords": []},
+ {"id": "d01", "type": "conflict", "q": "I work in Chicago. Does the Illinois Paid Leave for All Workers Act or the Chicago ordinance apply to me?", "status": ["answered", "depends"], "sources": ["il-plawa-faq", "chi-paid-leave-faq"], "keywords": []},
+ {"id": "d02", "type": "conflict", "q": "How much paid leave do I earn each year?", "status": ["depends"], "sources": ["il-plawa-faq", "chi-paid-leave-faq"], "keywords": []},
+ {"id": "d03", "type": "conflict", "q": "Am I eligible for FMLA leave?", "status": ["depends"], "sources": ["fmla-guide"], "keywords": []},
+ {"id": "d04", "type": "conflict", "q": "I work part-time. Do I get paid leave?", "status": ["depends", "answered"], "sources": ["il-plawa-faq", "chi-paid-leave-faq"], "keywords": []},
+ {"id": "d05", "type": "conflict", "q": "If I take Illinois paid leave, does it count against my FMLA leave too?", "status": ["answered", "depends"], "sources": ["il-plawa-faq", "fmla-guide"], "keywords": []}
+]

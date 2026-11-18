@@ -1,0 +1,11 @@
+[
+  {"id": "fmla-guide", "level": "Federal",
+   "title": "U.S. DOL: Employee's Guide to the Family and Medical Leave Act",
+   "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/employeeguide.pdf"},
+  {"id": "il-plawa-faq", "level": "Illinois",
+   "title": "Illinois Department of Labor: Paid Leave for All Workers Act FAQ",
+   "url": "https://labor.illinois.gov/faqs/paidleavefaq"},
+  {"id": "chi-paid-leave-faq", "level": "Chicago",
+   "title": "City of Chicago: Paid Leave and Paid Sick and Safe Leave FAQs (Sep 25, 2025)",
+   "url": "https://chicago.gov/content/dam/city/depts/bacp/OSL/faqpaidleavepaidsickleave09252025.pdf"}
+]

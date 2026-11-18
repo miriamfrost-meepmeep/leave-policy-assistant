@@ -1,0 +1,448 @@
+[
+ {
+  "id": "a01",
+  "type": "answerable",
+  "q": "How many workweeks of leave can an eligible employee take under the FMLA in a 12-month period?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "fmla-guide"
+  ],
+  "keywords": [
+   "12"
+  ],
+  "got_status": "answered",
+  "answer": "An eligible employee covered by the FMLA can take up to 12 weeks of FMLA leave in a 12-month period for qualifying reasons, such as a serious health condition affecting themselves or a spouse, child, or parent.",
+  "cited": [
+   "fmla-guide"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0103
+ },
+ {
+  "id": "a02",
+  "type": "answerable",
+  "q": "How many hours do I need to have worked to be eligible for FMLA leave?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "fmla-guide"
+  ],
+  "keywords": [
+   "1,250"
+  ],
+  "got_status": "answered",
+  "answer": "You need to have worked at least 1,250 hours for your employer in the last 12 months to be eligible for FMLA leave. You also must have worked for that employer for at least 12 months total, and your employer must be covered by the FMLA (generally private employers with 50+ employees, or public agencies/schools regardless of size).",
+  "cited": [
+   "fmla-guide"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0103
+ },
+ {
+  "id": "a03",
+  "type": "answerable",
+  "q": "How many employees does my employer need within 75 miles for me to qualify for FMLA?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "fmla-guide"
+  ],
+  "keywords": [
+   "50"
+  ],
+  "got_status": "answered",
+  "answer": "Your employer must have at least 50 employees within 75 miles of your worksite. If your employer has fewer than 50 employees within that 75-mile radius\u2014even if the company overall is bigger\u2014you won't be eligible for FMLA leave.",
+  "cited": [
+   "fmla-guide"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0099
+ },
+ {
+  "id": "a04",
+  "type": "answerable",
+  "q": "How much FMLA leave can I take to care for a covered servicemember with a serious injury or illness?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "fmla-guide"
+  ],
+  "keywords": [
+   "26"
+  ],
+  "got_status": "answered",
+  "answer": "You may take up to 26 weeks of FMLA leave in a single 12-month period to care for a covered servicemember with a serious injury or illness. This is part of the FMLA's military family leave provisions.",
+  "cited": [
+   "fmla-guide"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0105
+ },
+ {
+  "id": "a05",
+  "type": "answerable",
+  "q": "Is FMLA leave paid?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "fmla-guide"
+  ],
+  "keywords": [
+   "unpaid"
+  ],
+  "got_status": "answered",
+  "answer": "FMLA leave itself is unpaid, job-protected leave. However, you may use your own paid leave (like vacation) during FMLA leave, either because you choose to or because your employer requires it, and that time still stays protected under FMLA. In Illinois, employees may also use or be required to use Paid Leave for All Workers Act (PLAWA) time concurrently with FMLA leave, which would make part of that leave paid.",
+  "cited": [
+   "fmla-guide",
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0113
+ },
+ {
+  "id": "a06",
+  "type": "answerable",
+  "q": "Under the Illinois Paid Leave for All Workers Act, how many hours do I have to work to earn one hour of paid leave?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "il-plawa-faq"
+  ],
+  "keywords": [
+   "40"
+  ],
+  "got_status": "answered",
+  "answer": "Under PLAWA, you earn 1 hour of paid leave for every 40 hours you work, up to a cap of 40 hours of paid leave per 12-month period. Only hours actually worked count toward this accrual\u2014time spent on PTO or unpaid leave doesn't count. Employers can also choose to frontload the full 40 hours at the start of the year instead of having you accrue it gradually.",
+  "cited": [
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0117
+ },
+ {
+  "id": "a07",
+  "type": "answerable",
+  "q": "In Chicago, how many hours do I need to work to earn one hour of Paid Leave?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "chi-paid-leave-faq"
+  ],
+  "keywords": [
+   "35"
+  ],
+  "got_status": "answered",
+  "answer": "In Chicago, you earn one hour of Paid Leave (and one hour of Paid Sick Leave) for every 35 hours you work, up to 40 hours of each in a 12-month period, unless your employer sets a higher limit.",
+  "cited": [
+   "chi-paid-leave-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0113
+ },
+ {
+  "id": "a08",
+  "type": "answerable",
+  "q": "I work in Chicago. How long do I have to wait before I can start using Paid Leave?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "chi-paid-leave-faq"
+  ],
+  "keywords": [
+   "90"
+  ],
+  "got_status": "answered",
+  "answer": "If you work in Chicago, you can start using Paid Leave on your 90th day of employment, or July 1, 2024, whichever is later. (Note: Paid Sick Leave under the same ordinance has a shorter wait\u201430 days\u2014but that's a separate leave type.)",
+  "cited": [
+   "chi-paid-leave-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0111
+ },
+ {
+  "id": "a09",
+  "type": "answerable",
+  "q": "Can I use Illinois paid leave for any reason, or do I have to say why I need it?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "il-plawa-faq"
+  ],
+  "keywords": [],
+  "got_status": "answered",
+  "answer": "In Illinois, paid leave under PLAWA can be used for any reason or no reason at all. Your employer cannot ask you why you're requesting the leave. They also cannot ask for documentation, like a doctor's note, to support your request. This only changes if your employer offers more than the required 40 hours of paid leave per year - for those extra hours, they may have a reasonable written policy requiring a reason or documentation. But for your standard PLAWA leave, no explanation is needed.",
+  "cited": [
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0118
+ },
+ {
+  "id": "a10",
+  "type": "answerable",
+  "q": "I just started a job in Chicago two weeks ago. Can I use Paid Sick Leave yet?",
+  "status": [
+   "answered"
+  ],
+  "sources": [
+   "chi-paid-leave-faq"
+  ],
+  "keywords": [
+   "30"
+  ],
+  "got_status": "not_in_sources",
+  "answer": "Based on the sources I checked, they don't say how soon a new Chicago employee can start using accrued Paid Sick Leave. The passages cover topics like usage increments, documentation, and accrual rates for exempt employees, but not a waiting period for new hires. For your specific situation, check with your employer's HR department or the Chicago Office of Labor Standards.",
+  "cited": [
+   "chi-paid-leave-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": false,
+  "why": [
+   "status",
+   "keyword"
+  ],
+  "cost_usd": 0.0129
+ },
+ {
+  "id": "u01",
+  "type": "unanswerable",
+  "q": "Does my company offer paid bereavement leave when a pet dies?",
+  "status": [
+   "not_in_sources"
+  ],
+  "sources": [],
+  "keywords": [],
+  "got_status": "not_in_sources",
+  "answer": "Based on the sources I checked, I found no mention of paid bereavement leave for a pet's death. The passages cover FMLA eligibility rules, Illinois Paid Leave for All Workers Act (how leave is earned, its interaction with FMLA, coverage for remote workers), and filing complaints with the Wage and Hour Division. None address bereavement leave or pet-related leave. Your company's specific benefits, including any bereavement policy, would need to come from your employer's HR department or employee handbook.",
+  "cited": [
+   "fmla-guide",
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0122
+ },
+ {
+  "id": "u02",
+  "type": "unanswerable",
+  "q": "How many weeks of paid family leave do I get in California?",
+  "status": [
+   "not_in_sources"
+  ],
+  "sources": [],
+  "keywords": [],
+  "got_status": "not_in_sources",
+  "answer": "Based on the sources I checked, I don't have information about California paid family leave programs. The passages I reviewed cover federal FMLA leave, Illinois Paid Leave for All Workers Act, and Chicago paid sick/safe leave rules\u2014not California state law. For California-specific paid family leave rules, please contact your HR department or check with California's Employment Development Department (EDD).",
+  "cited": [
+   "fmla-guide",
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.012
+ },
+ {
+  "id": "u03",
+  "type": "unanswerable",
+  "q": "What is my employer's policy on working from home?",
+  "status": [
+   "not_in_sources"
+  ],
+  "sources": [],
+  "keywords": [],
+  "got_status": "not_in_sources",
+  "answer": "Based on the sources I checked, I don't have information about your specific employer's work-from-home policy. The sources only address one related point: under Chicago's law, an employer cannot require a covered employee to telecommute or work from home instead of using Paid Sick Leave. For your employer's actual remote work policy, check your employee handbook or ask HR.",
+  "cited": [
+   "chi-paid-leave-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.011
+ },
+ {
+  "id": "u04",
+  "type": "unanswerable",
+  "q": "How do I submit a leave request in Workday?",
+  "status": [
+   "not_in_sources"
+  ],
+  "sources": [],
+  "keywords": [],
+  "got_status": "not_in_sources",
+  "answer": "Based on the sources I checked, they don't cover how to submit a leave request in a specific system like Workday. These passages explain rules for Chicago, Illinois, and federal FMLA leave\u2014like notice requirements, documentation rules, and how to file complaints\u2014but not how to use any particular employer software or portal. For help with Workday specifically, ask your HR or payroll department, since that process is set by your employer.",
+  "cited": [
+   "chi-paid-leave-faq",
+   "fmla-guide",
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.012
+ },
+ {
+  "id": "u05",
+  "type": "unanswerable",
+  "q": "What is the maximum weekly short-term disability benefit in Illinois?",
+  "status": [
+   "not_in_sources"
+  ],
+  "sources": [],
+  "keywords": [],
+  "got_status": "not_in_sources",
+  "answer": "Based on the sources I checked, they don't cover short-term disability benefit amounts. The passages discuss FMLA job protections, the Illinois Paid Leave for All Workers Act (which covers paid leave accrual, coverage, and exemptions), but none mention short-term disability insurance or benefit caps. For this, you should ask HR or contact the Illinois Department of Employment Security, which handles disability-related programs.",
+  "cited": [
+   "fmla-guide",
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0125
+ },
+ {
+  "id": "d01",
+  "type": "conflict",
+  "q": "I work in Chicago. Does the Illinois Paid Leave for All Workers Act or the Chicago ordinance apply to me?",
+  "status": [
+   "answered",
+   "depends"
+  ],
+  "sources": [
+   "il-plawa-faq",
+   "chi-paid-leave-faq"
+  ],
+  "keywords": [],
+  "got_status": "answered",
+  "answer": "If you work in Chicago, the Chicago Paid Leave and Paid Sick and Safe Leave Ordinance applies to you, not PLAWA. Illinois's law explicitly excludes Chicago because the city passed its own paid leave ordinance before January 1, 2024, so PLAWA does not cover Chicago workers or employers. For Chicago-specific questions, contact the City of Chicago Office of Labor Standards.",
+  "cited": [
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.012
+ },
+ {
+  "id": "d02",
+  "type": "conflict",
+  "q": "How much paid leave do I earn each year?",
+  "status": [
+   "depends"
+  ],
+  "sources": [
+   "il-plawa-faq",
+   "chi-paid-leave-faq"
+  ],
+  "keywords": [],
+  "got_status": "answered",
+  "answer": "Under the Illinois Paid Leave for All Workers Act, you earn 1 hour of paid leave for every 40 hours you work, up to a cap of 40 hours in a 12-month period. Even if you work full-time all year, you still only accrue up to 40 hours total\u2014PLAWA caps it there. Instead of accrual, your employer can choose to \"frontload\" and give you the full 40 hours at the start of the year or at hire. Only hours actually worked count toward accrual; time on PTO or unpaid leave doesn't count.",
+  "cited": [
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": false,
+  "why": [
+   "status"
+  ],
+  "cost_usd": 0.0131
+ },
+ {
+  "id": "d03",
+  "type": "conflict",
+  "q": "Am I eligible for FMLA leave?",
+  "status": [
+   "depends"
+  ],
+  "sources": [
+   "fmla-guide"
+  ],
+  "keywords": [],
+  "got_status": "depends",
+  "answer": "It depends on your employer and your work history. First, your employer must be covered: private employers with 50+ employees, or any government agency, elementary or secondary school, regardless of size (fmla-guide#2). If covered, you're eligible only if you've worked for that employer at least 12 months, worked at least 1,250 hours in the last 12 months, and your employer has 50+ employees within 75 miles of your worksite (fmla-guide#4, fmla-guide#5). If your employer isn't covered, or you don't meet these conditions, you're not eligible for FMLA leave, though state leave laws might still apply (fmla-guide#2).",
+  "cited": [
+   "fmla-guide"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0125
+ },
+ {
+  "id": "d04",
+  "type": "conflict",
+  "q": "I work part-time. Do I get paid leave?",
+  "status": [
+   "depends",
+   "answered"
+  ],
+  "sources": [
+   "il-plawa-faq",
+   "chi-paid-leave-faq"
+  ],
+  "keywords": [],
+  "got_status": "answered",
+  "answer": "Yes. Under the Illinois Paid Leave for All Workers Act, part-time workers also earn paid leave. Leave accrues at 1 hour for every 40 hours worked, so part-time hours count toward accrual just like full-time hours. If your employer frontloads leave instead of letting it accrue, they must give you a pro-rated amount based on your expected work schedule, not the full 40 hours a full-time worker would get. For example, someone working 20 hours a week for 50 weeks could be frontloaded about 25 hours of leave.",
+  "cited": [
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0184
+ },
+ {
+  "id": "d05",
+  "type": "conflict",
+  "q": "If I take Illinois paid leave, does it count against my FMLA leave too?",
+  "status": [
+   "answered",
+   "depends"
+  ],
+  "sources": [
+   "il-plawa-faq",
+   "fmla-guide"
+  ],
+  "keywords": [],
+  "got_status": "depends",
+  "answer": "It depends on why you're taking leave. PLAWA is leave that can be used for any reason. FMLA is unpaid, job-protected leave only for specific covered reasons and covered employees. The sources say employees going on FMLA leave 'may use or may be required by their employer to use PLAWA time concurrently during their FMLA leave.' So if your leave also qualifies under FMLA, your employer can run your paid PLAWA leave at the same time as your FMLA leave, meaning it would count against both. If your leave does not qualify for FMLA, taking PLAWA leave would not affect any FMLA entitlement. For FMLA-specific questions, the sources say to contact the U.S. Department of Labor.",
+  "cited": [
+   "il-plawa-faq"
+  ],
+  "retrieval_ok": true,
+  "passed": true,
+  "why": [],
+  "cost_usd": 0.0166
+ }
+]
