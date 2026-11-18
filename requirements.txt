@@ -1,0 +1,5 @@
+anthropic>=1.0
+rank_bm25
+requests
+beautifulsoup4
+pypdf
